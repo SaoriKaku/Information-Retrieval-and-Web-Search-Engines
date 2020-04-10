@@ -1,0 +1,41 @@
+
+Name: Tommy Trojan
+USC ID: 1234567890
+News site crawled: nytimes.com
+
+Fetch Statistics 
+================
+# fetches attempted: near or <= 20000
+# fetches succeeded: status code == 2XX
+# fetches failed or aborted: 3XX 0r 4XX or 5XX
+
+Outgoing URLs:
+==============
+Total URLs extracted: all url
+# unique URLs extracted: 去重以后的url
+# unique URLs within News Site:
+# unique URLs outside News Site:
+
+Status Codes: 
+=============
+200 OK:
+301 Moved Permanently: 
+401 Unauthorized:
+403 Forbidden:
+404 Not Found:
+
+File Sizes:
+===========
+< 1KB:
+1KB ~ <10KB:
+10KB ~ <100KB:
+100KB ~ <1MB:
+>= 1MB:
+
+Content Types:
+==============
+text/html:
+image/gif:
+image/jpeg:
+image/png:
+application/pdf:
