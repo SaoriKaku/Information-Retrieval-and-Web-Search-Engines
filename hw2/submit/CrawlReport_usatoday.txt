@@ -1,0 +1,38 @@
+
+News site crawled: usatoday.com
+
+Fetch Statistics
+================
+# fetches attempted: 18134
+# fetches succeeded: 15284
+# fetches failed or aborted: 2850
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1831924
+# unique URLs extracted: 681173
+# unique URLs within usatoday.com: 529179
+# unique URLs outside usatoday.com: 151994
+
+Status Codes:
+=============
+200 OK: 15284
+301 Moved Permanently: 2482
+302 Found: 14
+303 See Other: 305
+307 Temporary Redirect: 17
+404 Not Found: 13
+500 Internal Server Error: 17
+502 Bad Gateway: 2
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 3
+10KB ~ <100KB: 678
+100KB ~ <1MB: 14485
+>= 1MB: 41
+
+Content Types:
+==============
+text/html: 15207
