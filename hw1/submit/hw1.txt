@@ -1,7 +1,0 @@
-
-Title: CSCI572 homework1
-Name: Su Guo
-Email: suguo@usc.edu
-Student ID: 4906010061
-
-According to my ID number, I am assigned to dataset 3 and search engine Ask. According to hw1.json, hw1.csv, the average overlap is equal to 5.91 and the average spearman's rank correlation coefficient is equal to -0.63. Since average overlap is more than 5(in 10), Ask and Google have similar results regardless of their position. However, the average spearman's rank correlation coefficient is less than 0. Thus, Ask and Google have dissimilar ranks of their searching results.
