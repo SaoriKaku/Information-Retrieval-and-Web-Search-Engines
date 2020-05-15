@@ -27,3 +27,5 @@ Course Homework/Project for CSCI572 Search Engine
 3. Created HTTP requests and parsed responses in PHP fetching suggestion and searching query from solr-php-client API.
 4. Retrieved contents from Los Angeles Times with Apache Tika library based on two ranking algorithm, Lucene and PageRank. 
 5. Extracting incoming and outgoing links with Java Jsoup library and computed page rank with Python Networks library.
+
+**Thank you for reading!**
