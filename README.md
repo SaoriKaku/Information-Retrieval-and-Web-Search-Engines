@@ -1,7 +1,7 @@
 # Information-Retrieval-and-Web-Search-Engines
 Course Homework/Project for CSCI572 Search Engine
 
-## Part 1: a simple sample to present this Search Engine based on Apache Solr
+## Part 1: a simple presentation for Search Engine based on Apache Solr
 1. Open the server, cd solr-7.7.2, start solr: bin/solr start, start apache: sudo apachectl start.
 ![image](https://github.com/SaoriKaku/Information-Retrieval-and-Web-Search-Engines/blob/master/images/Enhanced%20PhP%20Solr%20Client%20-%201.png)
 
